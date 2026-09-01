@@ -1,6 +1,7 @@
 cmake-build-debug/
 cmake-build-release/
 build/
+build-arm64/
 build-web/
 .idea/
 .venv/
@@ -17,3 +18,7 @@ __pycache__/
 /tests/graph.html
 /tests/test_graph.py
 /rm_lines_wasm_sys/rm_lines_wasm.*
+/rm_lines/assets/fonts/reMarkable*
+/tools/utf_bomb.txt
+/tests/debug_overlays/Text styles*
+/tools/text_info/
